@@ -7,4 +7,4 @@ I was inspired to make it while I was following the 50Projects50Days on Udemy by
 
 Suggestions and helpful opinions would be highly appreciated! 
 
-*P.S. I know my CSS file here is a chaos. I might have to redo it later. *
+*P.S. I know my CSS file here is a chaos. I might have to redo it later.*
